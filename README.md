@@ -8,8 +8,6 @@
 
 ## Built With
 - React - Javascript Library for creating UI
-- React-Router
-- Redux - A predictable state container for JavaScript apps.
 - Much More..
 
 
